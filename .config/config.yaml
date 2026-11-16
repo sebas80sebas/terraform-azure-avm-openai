@@ -1,0 +1,4 @@
+avm_type: module
+resource_info:
+  name: azurerm_cognitive_account
+version: 0.1.0

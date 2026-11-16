@@ -1,0 +1,17 @@
+# Changelog
+
+## [Unreleased]
+
+### Added
+
+- Example `Azure-AI-Foundry-Classic` demonstrating how to create an AI Foundry Hub and Project using the "classic" Cognitive Services model.
+
+## [0.1.0] - 2026-02-16
+
+### Added
+
+- Initial release of the OpenAI/Cognitive Services AVM wrapper.
+- Support for all 39 input variables from the official module version 0.11.0.
+- Support for all 11 outputs from the official module.
+- Standard AVM telemetry tracking via `modtm`.
+- Comprehensive examples for OpenAI, AI Service, Document Intelligence, CMK, Private Endpoints, and RAI policies.
